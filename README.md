@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do GabreuC 😁
+## Bem-vindo(a) ao meu Perfil 😁
 
  <div>
    <a href="https://github.com/GabreuC">
